@@ -1,8 +1,8 @@
 # Sales & Pricing Report Dashboard
 
-<img src="P1.jpg" alt="Project Image 1" width="300"/>
-<img src="P2.jpg" alt="Project Image 2" width="300"/>
-<img src="P3.jpg" alt="Project Image 3" width="300"/>
+<img src="P1.jpg" alt="Project Image 1" width="1200"/>
+<img src="P2.jpg" alt="Project Image 2" width="1200"/>
+<img src="P3.jpg" alt="Project Image 3" width="1200"/>
 
 ## 1. Project Overview
 
@@ -79,6 +79,7 @@ The analysis focuses on pricing, sales, discounts, ratings, and offers, with the
 
 - **Slicers** were provided for filtering products by discounts, offers, and availability.
 - **Flexibility in visualization**: The dashboard can easily be adjusted to suit future needs by adding more filters or charts.
+
 
 
 
