@@ -1,8 +1,8 @@
 # Sales & Pricing Report Dashboard
 
-![Project Image 1](G:\Data Analysis_AMIT\Final_Project\assets/P1.jpg)
-![Project Image 2](G:\Data Analysis_AMIT\Final_Project\assets.jpg)
-![Project Image 3](G:\Data Analysis_AMIT\Final_Project\assets/P3.jpg)
+![Project Image 1](./assets/P1.jpg)
+![Project Image 2](./assets/P2.jpg)
+![Project Image 3](./assets/P3.jpg)
 
 ## 1. Project Overview
 
@@ -79,3 +79,4 @@ The analysis focuses on pricing, sales, discounts, ratings, and offers, with the
 
 - **Slicers** were provided for filtering products by discounts, offers, and availability.
 - **Flexibility in visualization**: The dashboard can easily be adjusted to suit future needs by adding more filters or charts.
+
