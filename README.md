@@ -80,6 +80,8 @@ The analysis focuses on pricing, sales, discounts, ratings, and offers, with the
 - **Slicers** were provided for filtering products by discounts, offers, and availability.
 - **Flexibility in visualization**: The dashboard can easily be adjusted to suit future needs by adding more filters or charts.
 
-
+## Links:
+- **Drive** https://drive.google.com/drive/folders/1HQ0BLRazvqfqjg9RcHDY8FM3fjzKW0dE?usp=sharing
+- - **web** https://emanmahmoud0.github.io/Phone-Search-Analysis-On-Amazon/
 
 
