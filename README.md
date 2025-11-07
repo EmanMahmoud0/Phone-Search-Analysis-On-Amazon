@@ -82,8 +82,13 @@ The analysis focuses on pricing, sales, discounts, ratings, and offers, with the
 
 ### Links:
 
-- [Drive](https://drive.google.com/drive/folders/1HQ0BLRazvqfqjg9RcHDY8FM3fjzKW0dE?usp=sharing)
-- [Web](https://emanmahmoud0.github.io/Phone-Search-Analysis-On-Amazon/)
+- **Drive:**  
+  <https://drive.google.com/drive/folders/1HQ0BLRazvqfqjg9RcHDY8FM3fjzKW0dE?usp=sharing>
+
+- **Web:**  
+  <https://emanmahmoud0.github.io/Phone-Search-Analysis-On-Amazon/>
+
+
 
 
 
